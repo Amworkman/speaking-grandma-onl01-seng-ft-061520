@@ -18,4 +18,6 @@ def speak_to_grandma(phrase)
   elsif phrase == "I LOVE YOU GRANDMA!"
     put "I LOVE YOU TOO PUMPKIN!"
   else 
+    put "HUH?! SPEAK UP, SONNY!"
+  end
 end  
